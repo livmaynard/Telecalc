@@ -1,0 +1,21 @@
+TELESCOPE 1 =====================================================
+Name: Orion SkyQuest 8
+Aperture: 203 in 
+Length: 1200 mm
+Focal ratio: 5.9
+The magnification range is 29x to 406x
+Shortest eyepiece: 3.0 mm
+Longest eyepiece: 41 mm
+
+EYEPIECES......................................................
+NAME                     MAG            TFOV           
+Stratus 3.5              343            0.20           
+Stratus 5                240            0.28           
+Stratus 8                150            0.45           
+Stratus 13               92             0.74           
+Stratus 17               71             0.96           
+Q70 26                   46             1.52           
+Q70 32                   38             1.87           
+Q70 38                   32             2.22           
+
+

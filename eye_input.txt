@@ -1,0 +1,39 @@
+# First line is the number of eyepieces
+# Name of eyepiece
+# Apparent field of view (deg)
+# Focal Length (mm)
+
+8
+
+# http://www.telescope.com/35mm-Orion-Stratus-Wide-Field-Eyepiece/p/8241.uts?keyword=stratus
+Stratus 3.5
+68
+3.5
+
+Stratus 5
+68
+5.0
+
+Stratus 8
+68
+8.0
+
+Stratus 13
+68
+13.0
+
+Stratus 17
+68
+17.0
+
+Q70 26
+70
+26.0
+
+Q70 32
+70
+32.0
+
+Q70 38
+70
+38.0

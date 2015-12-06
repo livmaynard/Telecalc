@@ -1,0 +1,26 @@
+# First line is the number of telescopes
+# Name of telescope
+# Aperture (in)
+# Length (mm)
+
+1
+
+# http://www.telescope.com/Telescopes/Dobsonian-Telescopes/Classic-Dobsonians/Orion-SkyQuest-XT8-PLUS-Dobsonian-Reflector-Telescope/pc/1/c/12/sc/13/p/102780.uts
+Orion SkyQuest 8
+8
+1200
+
+# http://www.meade.com/products/telescopes/lightbridge/lightbridge-10-f-5-truss-tube-dobsonian.html
+Meade Lightbridge 10
+10
+1270
+
+# http://www.meade.com/products/telescopes/lightbridge/lightbridge-12-f-5-truss-tube-dobsonian.html
+Meade Lightbridge 12
+12
+1524
+
+# http://www.meade.com/products/telescopes/lightbridge/lightbridge-16-f-4-5-truss-tube-dobsonian.html
+Meade Lightbridge 16
+16
+1829
